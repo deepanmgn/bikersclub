@@ -1,0 +1,23 @@
+h1 {
+	color: black;
+	margin-left: 4em;
+}
+
+img {
+	width: 6em;
+	float: left;
+	margin-top: -7em;
+	margin-left: 4em;
+}
+
+a {
+	color: black;
+}
+
+.container {
+	background-color: white;
+}
+
+footer {
+	background-color: black;
+}
